@@ -15,6 +15,6 @@
 ## Author
 Created by: Daria Myronova  
 Date of idea: April 2025  
-License: MIT (or your choice)
+License: MIT
 
 _This idea and implementation belong to the author and must not be reused without permission._
